@@ -14,11 +14,6 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
  
- <br>
- 
-  <h3 align="center">Para mais contato comigo me segue nas redes aí em baixo!</h3>
-  <h4 align="center">🤫(OBS: Ctrl + Click -> Abre os links em uma nova aba para que você não precise sair daqui às pressas 😁✌️)</h4>
- 
 <div align="center">
    ![Snake animation](https://github.com/gugas1lva/gugas1lva/blob/output/github-snake-dark.svg)
   
