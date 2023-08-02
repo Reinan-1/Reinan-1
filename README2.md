@@ -20,10 +20,6 @@
   <h4 align="center">🤫(OBS: Ctrl + Click -> Abre os links em uma nova aba para que você não precise sair daqui às pressas 😁✌️)</h4>
  
 <div align="center">
-  <!<a href="https://www.instagram.com/50repolhoscozidos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guga-silva-124706233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatogustavosilva017@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   >
   ![Snake animation](https://github.com/Reinan-1/Reinan-1/blob/output/github-snake-dark.svg)
   
    ## Total de visitas ao meu perfil 🧑🏻‍💻☕
