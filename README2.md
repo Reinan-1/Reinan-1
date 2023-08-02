@@ -16,6 +16,7 @@
  
 <div align="center">
    ![Snake animation](https://github.com/Reinan-1/Reinan-1/blob/output/github-snake-dark.svg)
+   ![Snake animation](https://github.com/gugas1lva/gugas1lva/blob/output/github-snake-dark.svg)
   
    ## Total de visitas ao meu perfil 🧑🏻‍💻☕
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Reinan-1/count.svg" />
