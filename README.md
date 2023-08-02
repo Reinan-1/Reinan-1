@@ -27,3 +27,4 @@
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Reinan-1/count.svg" />
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=footer"/>
