@@ -20,7 +20,7 @@
   <h4 align="center">🤫(OBS: Ctrl + Click -> Abre os links em uma nova aba para que você não precise sair daqui às pressas 😁✌️)</h4>
  
 <div align="center">
-  ![Snake animation](https://github.com/Reinan-1/Reinan-1/blob/output/github-snake-dark.svg)
+  ![Snake animation](https://github.com/reinan-1/reinan-1/blob/output/github-snake-dark.svg)
   
    ## Total de visitas ao meu perfil 🧑🏻‍💻☕
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Reinan-1/count.svg" />
